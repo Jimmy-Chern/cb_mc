@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+output/
+output_mcp/
+output_backtest/
+output_full/
+*.pkl
+*.csv
+data_cache/
+logs/
+.DS_Store
